@@ -40,7 +40,7 @@ int[x, y] Analysis_Padding
 
 #### Usage
 ```py
-mvmanip.ExpandAnalysisData(vnode clip)
+manipmv.ExpandAnalysisData(vnode clip)
 ```
 
 #### Parameters
